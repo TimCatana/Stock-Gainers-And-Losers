@@ -1,0 +1,1 @@
+export const EXAMPLE_ERROR_MESSAGE = 'Example Error Message';
